@@ -1,5 +1,6 @@
 # PRISMA 2020 Flow Diagram Generator — Claude Skill
 ![For students and researchers](https://img.shields.io/badge/For-Students%20%26%20Researchers-blue.svg)
+
 문헌고찰을 위한 PRISMA 2020 flow diagram을 Claude 안에서 바로 만들어주는 스킬입니다. 코딩 없이, 대화창에 나타나는 입력 폼에 선별 단계별 숫자만 입력하면 고해상도 PNG와 Word 문서를 받을 수 있습니다.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
